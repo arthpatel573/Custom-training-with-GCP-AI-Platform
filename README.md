@@ -3,8 +3,9 @@
 This repo is for demonstrating an example of custom training of `PyTorch` models on GCP AI-platform using dockerized container.
 
 * [Setup docker with Cloud Container Registry](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
-  
 
+* The data can also be downloaded using [this script](https://github.com/arthpatel573/Custom-training-with-GCP-AI-Platform.git).
+    
 ### Scripts
 
 * [train-local.sh](scripts/train-local.sh) This script trains a model locally. 
