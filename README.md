@@ -7,7 +7,7 @@ This repo is for demonstrating an example of custom training of `PyTorch` models
 
 ### Scripts
 
-* [train-local.sh](scripts/train-local) This script trains a model locally. 
+* [train-local.sh](scripts/train-local.sh) This script trains a model locally. 
   It generates a SavedModel in local folder on the Docker Image.
 
 * [train-cloud.sh](scripts/train-cloud.sh) This script submits a training job to AI Platform.
