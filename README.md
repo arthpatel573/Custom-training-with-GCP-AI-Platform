@@ -14,9 +14,9 @@ This repo is for demonstrating an example of custom training of `PyTorch` models
 
 ## How to run
 
-Once the prerequisites are satisfied, you may:
+Once the prerequisites are satisfied:
 
-1. For local testing, run: (Note: if you don't have a GPU, the program will be run on the CPU)
+1. For local testing, run:
     ```
     source ./scripts/train-local.sh
     ```
@@ -25,4 +25,4 @@ Once the prerequisites are satisfied, you may:
     source ./scripts/train-cloud.sh
     ```
 ### Versions
-PyTorch 1.6.0
+Python 3.7.*
